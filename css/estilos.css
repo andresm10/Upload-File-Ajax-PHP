@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*#upload_button {
+	width:111px;
+	height:18px;
+	text-align:center;
+	background-image:url(../img/adjuntar_archivo.png)
+	color:#EEF5F7;
+	font-weight:bold;
+	padding-top:15px;
+	margin:auto;
+	cursor:pointer;
+}*/
+label{
+	text-align:center;	
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+.title{
+	color:#F00;
+	font-size:30px;
+	text-align:center;
+	font-family:"Lucida Sans Unicode, Lucida Grande, sans-serif";
+}
+.subtitulo{
+	font-size:25; 
+	color:#093;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
